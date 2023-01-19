@@ -1,2 +1,3 @@
 new file created for learning git code
-new line inserted
+new line 
+new line again
